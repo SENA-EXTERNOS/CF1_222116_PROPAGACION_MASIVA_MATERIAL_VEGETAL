@@ -44,6 +44,27 @@ const router = new VueRouter({
           component: () =>
             import(/* webpackChunkName: "tema3" */ '../views/Tema3.vue'),
         },
+        {
+          path: 'tema4',
+          name: 'tema4',
+          component: () =>
+            import(/* webpackChunkName: "tema3" */ '../views/Tema4.vue'),
+        },
+        {
+          path: 'tema5',
+          name: 'tema5',
+          component: () =>
+            import(/* webpackChunkName: "tema3" */ '../views/Tema5.vue'),
+        },
+        {
+          path: '/creditos',
+          name: 'creditos',
+          component: () =>
+            //import(
+            /*'../../node_modules/ecored-base-pkg/src/views/Creditos.vue'
+            //),*/
+            import(/* webpackChunkName: "creditos" */ '../views/Creditos.vue'),
+        },
       ],
     },
     {
@@ -86,10 +107,9 @@ const router = new VueRouter({
       path: '/creditos',
       name: 'creditos',
       component: () =>
-        //import(
-        /*'../../node_modules/ecored-base-pkg/src/views/Creditos.vue'
-        //),*/
-        import(/* webpackChunkName: "creditos" */ '../views/Creditos.vue'),
+        import(
+          /* webpackChunkName: "creditos" */ '../../node_modules/ecored-base-pkg/src/views/Creditos.vue'
+        ),
     },
   ],
   scrollBehavior(to, from) {
