@@ -1,24 +1,24 @@
 .banner-principal-decorativo
   &-1
-    animation: float2  20s ease-in-out infinite alternate
+    animation: float2  22s ease-in-out infinite alternate
     position: absolute
     top: 10%
     right: 77%
     width: 20%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float3 12s ease-in-out infinite alternate
     position: absolute
     top: 7%
     right: 11%
   &-3
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 3s ease-in-out infinite alternate
     position: absolute
     top: 66%
     right: 12%
     width: 23%
     
   &-4
-    animation: float1 22s ease-in-out infinite alternate
+    animation: float4 18s ease-in-out infinite alternate
     position: absolute
     top: 66%
     right: 67%
@@ -56,15 +56,54 @@
     transform: translateX(300px) translateY(-10px) 
 
   
+@keyframes float3
+  
+  0%
+    transform: translateX(-10px) 
+    //translateY(-60px)
+  17%
+    transform: translateX(120px) translateY(170px) 
+    //translateY(-60px)
+  
+  34%
+    transform: translateX(0px) translateY(360px)
+    //translateY(-60px)
+  51%
+    transform: translateX(-300px) translateY(360px)
+    //translateY(-60px)
+  68%
+    transform: translateX(-450px) translateY(170px)
+
+  85%
+    transform: translateX(-330px) translateY(-10px)
+  
+
+@keyframes float4
+
+  0%
+    transform: translateX(300px) translateY(0px) 
+  
+  17%
+    transform: translateX(400px) translateY(-150px) 
+    //translateY(-60px)
+  34%
+    transform: translateX(400px) translateY(-200px) 
+  51%
+    transform: translateX(300px) translateY(-350px)
+
+  68%
+    transform: translateX(0px) translateY(-350px)
+  
+  85%
+    transform: translateX(-100px) translateY(-150px)
 
 
 
 .titulo-principal__numero
   background-color: #F4522B
 
-.fa-info:before
-  color: white 
 
+  
 .titulo-principal__numero span
   color: white !important
 
@@ -75,7 +114,7 @@
 .bloque-texto-destacado-tipos-bio
   position: relative
   
-  
+
 
 .bloque-texto-color-blanco
   color: white !important
@@ -254,26 +293,26 @@
 
 .vineta3-tipos-riesgo
   position: absolute
-  top: 11%
+  top: 20%
   right: 100%
   width: 20%
 
 
 .bloque-texto-vineta3-tipos-riesgo
   position: relative
-  top: 20%
+  top: 25%
   right: 2%
 
 .vineta4-tipos-riesgo
   position: absolute
-  top: 11%
+  top: 20%
   right: 100%
   width: 20%
 
 
 .bloque-texto-vineta4-tipos-riesgo
   position: relative
-  top: 20%
+  top: 25%
   right: 11%
 
 .imagen-fondo-tipos-riesgo
@@ -565,16 +604,20 @@
 
 .subtitulo-desinfeccion-de-material
   position: relative
-  top: 1em
+  bottom: 0.5em
   left: 25%
 
 .imagen-fondo-desinfeccion-de-material
   position: absolute
-  top: 13%
+  top: 67%
   left: 0%
 
 .cajon-de-texto-desinfeccion-de-material
+  position: relative
+  top: 2em
   background-color: #D3E6B1 !important
+  
+
 .cajon.color-acento-botones:before
   background-color: #81B722 !important
 
@@ -583,4 +626,9 @@
   top: 1em
   width: 80%
   left: 10%
+
+.texto-descripcion-grupos-de-riesgo
+  position: relative
+  top: 2em
+  left: 2em
 

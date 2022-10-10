@@ -13,7 +13,7 @@
           
           .col-lg-7
             .bloque-texto-mitad-color-izquierda-prevencion-procedimientos-lab.p-4
-              | En los apartados anteriores se ha resaltado la importancia en temas relacionados con protocolos, o medidas que aseguren las condiciones de higiene en instalaciones de laboratorio, instrumentación, procesos y prácticas, las cuales permiten una muestra de calidad en el desarrollo biotecnológico, el personal deberá tener claridad en trabajar con seguridad, ser responsable de sus acciones, seguir normas de higiene y ejecutar sus tareas con orden y limpieza. Algunas de las acciones preventivas en cuanto a su proceder y lo aprendido será, realizar prudentemente, el transporte de sustancias, manipular responsablemente instrumentos de vidrio, aparatos eléctricos, realizar el manejo adecuado de temperaturas y hacer una disposición final adecuada de los residuos dada su clasificación. 
+              p En los apartados anteriores se ha resaltado la importancia en temas relacionados con protocolos, o medidas que aseguren las condiciones de higiene en instalaciones de laboratorio, instrumentación, procesos y prácticas, las cuales permiten una muestra de calidad en el desarrollo biotecnológico, el personal deberá tener claridad en trabajar con seguridad, ser responsable de sus acciones, seguir normas de higiene y ejecutar sus tareas con orden y limpieza. Algunas de las acciones preventivas en cuanto a su proceder y lo aprendido será, realizar prudentemente, el transporte de sustancias, manipular responsablemente instrumentos de vidrio, aparatos eléctricos, realizar el manejo adecuado de temperaturas y hacer una disposición final adecuada de los residuos dada su clasificación. 
               p No tomará decisiones y se debe ceñir a las guías de laboratorios indicada por docentes o expertos encargados de la práctica.
               p En el material complementario se encuentra el documento Prevención de Riesgos en Laboratorios de Investigación y de Prácticas, en donde usted puede relacionar aquellas acciones referidas a la seguridad en el laboratorio. 
     
@@ -26,7 +26,7 @@
         .row.justify-content-around.align-items-center
 
           #Caracteristicas_fisicas
-          .titulo-segundo.color-acento-botones
+          .titulo-segundo.color-acento-contenido
             h2 5.1  Acciones de asepsia en laboratorios
   
           .col-lg-6
@@ -40,7 +40,7 @@
         .row.justify-content-around.align-items-center
 
           #Caracteristicas_fisicas
-          .titulo-segundo.color-acento-botones
+          .titulo-segundo.color-acento-contenido
             h2 5.2 Desinfección, limpieza personal
 
           .col-lg-6
@@ -52,10 +52,10 @@
   
           separador 
   
-        .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+        .row.justify-content-around.align-items-center
           
           #Caracteristicas_fisicas
-          .titulo-segundo.color-acento-botones
+          .titulo-segundo.color-acento-contenido
             h2 5.3  Desinfección de material en laboratorio
           
           p En el caso del material del laboratorio, este no solo se puede y debe desinfectar, sino también esterilizar, puesto que son objetos inanimados. Para llevar a cabo este procedimiento se tienen presente algunas técnicas como: uso de calor en hornos especiales para ello, como se observa en la imagen 61, o con productos químicos, de ésta manera se podrá garantizar que las muestras están libres de microorganismos.
@@ -70,17 +70,17 @@
 
           .imagen-fondo-desinfeccion-de-material
             figure
-              img(src="@/assets/curso/fondo-desinfeccion-material-lab.png", alt="alt").m-auto
+              img(src="@/assets/curso/fondo-desinfeccion-material-lab.png", alt="alt")
 
         
-
+          br
           .row
             .col-12
               figure
                 img(src="@/assets/curso/imagen-autoclave.png", alt="alt").m-auto
 
         .row.justify-content-around.align-items-center
-
+          
           .col-lg-12
             .cajon.color-acento-botones.cajon-de-texto-desinfeccion-de-material.p-4
               p De esta manera se concluye el componente formativo de biotecnología vegetal.  Recuerde explorar los demás recursos que se encuentran disponibles aquí, para ello diríjase al menú principal en donde encontrará la síntesis, una actividad didáctica, material complementario, entre otros.

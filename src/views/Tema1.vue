@@ -11,7 +11,8 @@
     .row.justify-content-around.align-items-center
           .col-md.col-lg-8
             .cajon.color-primario.p-4
-              p.p-4 Para iniciar el aprendizaje sobre propagación de material vegetal in vitro, debe conocer las bases teóricas de la biotecnología, la cual es un referente de las ciencias que involucra un gran número de disciplinas o áreas temáticas para desarrollar su contenido, como lo es la ingeniería genética y la microbiología, así se convierte la biotecnología en una ciencia que ha revolucionado al mundo con sus prácticas y que ha sido una herramienta de las compañías multinacionales para generar grandes beneficios, y quizá también problemas a la humanidad, tales como una mayor deforestación por la agricultura intensiva (Espinoza, 2018).
+              p.p-4 Para iniciar el aprendizaje sobre propagación de material vegetal in vitro, debe conocer las bases teóricas de la biotecnología, la cual es un referente de las ciencias que involucra un gran número de disciplinas o áreas temáticas para desarrollar su contenido, como lo es la ingeniería genética y la microbiología, así se convierte la biotecnología en una ciencia que ha revolucionado al mundo con sus prácticas y que ha sido una herramienta de las compañías multinacionales para generar grandes beneficios, y quizá también problemas a la humanidad, tales como una mayor deforestación por la agricultura intensiva 
+                span.text-bold (Espinoza, 2018).
             br
             p La participación de la microbiología en desarrollos biotecnológicos resulta indispensable, pues es a partir de ésta que se obtiene la información del microorganismo que se pretende utilizar en determinado proceso; la microbiología, unida a la ingeniería genética, da origen a integraciones que permiten determinar las características que presenta cada tipo de biotecnología como lo son la biotecnología animal, la vegetal, la forense, la médica, entre otras; por consiguiente, la biotecnología se clasifica por colores, dependiendo de sus aplicaciones y líneas de trabajo más representativas.
             
@@ -25,7 +26,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
       #Tipos_de_biotecnologia
-      .titulo-segundo.color-acento-botones
+      .titulo-segundo.color-acento-contenido
         h2 1.1 Tipos de biotecnología 
               
       figure
@@ -109,7 +110,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.mb-5
 
         #Biotecnologia_vegetal_y_cultivo_de_plantas_in_vitro
-        .titulo-segundo.color-acento-botones
+        .titulo-segundo.color-acento-contenido
           h2 1.2 Biotecnología vegetal y cultivo de plantas in vitro
 
         .row.justify-content-around.align-items-center

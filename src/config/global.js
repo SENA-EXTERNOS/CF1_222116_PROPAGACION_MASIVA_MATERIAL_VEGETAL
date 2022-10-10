@@ -264,7 +264,7 @@ export default {
         'Es la expresión de los genes en los seres vivos, a través de características físicas observables.',
     },
     {
-      termino: 'in vitro',
+      termino: '<em>in vitro</em>',
       significado:
         'Hace referencia a ¨en vidrio¨ utilizados en técnicas de propagación.',
     },

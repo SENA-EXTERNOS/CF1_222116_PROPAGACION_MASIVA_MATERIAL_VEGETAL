@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      .h1 Bioseguridad en laboratorios
+      h1 Bioseguridad en laboratorios
       
     .row.justify-content-around.align-items-center
 
@@ -18,7 +18,8 @@
               .bloque-texto-f__comillas
                 i.fas.fa-quote-left
                 i.fas.fa-quote-right
-                h4.text-regular.bloque-texto-f__texto La bioseguridad describe los principios de contención, tecnologías y las prácticas en el manejo de agentes biológicos o de materiales que potencialmente puedan contenerlos y que se implementan para prevenir la exposición no intencional a agentes biológicos y toxinas, o bien su liberación accidental.
+                h4.text-regular.bloque-texto-f__texto 
+                  span.text-bold La bioseguridad describe los principios de contención, tecnologías y las prácticas en el manejo de agentes biológicos o de materiales que potencialmente puedan contenerlos y que se implementan para prevenir la exposición no intencional a agentes biológicos y toxinas, o bien su liberación accidental.
           
           
         .col-lg-4
@@ -71,7 +72,7 @@
     .row.tarjeta.tarjeta--blanca.p-3
       
       #Niveles_riesgos_y_seguridad_en_laboratorios
-      .titulo-segundo.color-acento-botones
+      .titulo-segundo.color-acento-contenido
         h2 2.1 Niveles, riesgos y seguridad en laboratorios
 
       .row.justify-content-around.align-items-center
@@ -141,12 +142,13 @@
         TabsC.color-primario
           .py-3.py-md-4(titulo="Grupo de riesgo 1").tipos-de-riesgo
             .row
-              p Detalladamente, los riesgos pueden describirse de la siguiente manera a partir de la adaptación del Manual de bioseguridad en el laboratorio (OMS, 2005).
-              br
-              br
-
+              
+              p.texto-descripcion-grupos-de-riesgo Detalladamente, los riesgos pueden describirse de la siguiente manera a partir de la adaptación del Manual de bioseguridad en el laboratorio (OMS, 2005).
+              
               .col-md-6.mb-4.mb-md-0.bloque-texto-vineta3-tipos-riesgo
-
+                br
+                br
+                br
                 ul.lista-ul--color.lista-ul--separador
                   
                     li
@@ -170,7 +172,9 @@
                     
             
               .col-md-6.mb-4.mb-md-0.bloque-texto-vineta4-tipos-riesgo
-                    
+                  br
+                  br
+                  br
                   ul.lista-ul--color.lista-ul--separador
                       li
                       li
@@ -195,12 +199,14 @@
                 
           .py-3.py-md-4(titulo="Grupo de riesgo 2").tipos-de-riesgo
             .row
-                p Se describe a continuación el grupo de riesgo 2 a partir de la adaptación del Manual de bioseguridad en el laboratorio (OMS, 2005).
-                br
-                br
-
+                
+                p.texto-descripcion-grupos-de-riesgo Se describe a continuación el grupo de riesgo 2 a partir de la adaptación del Manual de bioseguridad en el laboratorio (OMS, 2005).
+                
+                
                 .col-md-6.mb-4.mb-md-0.bloque-texto-vineta3-tipos-riesgo
-
+                  br
+                  br
+                  br
                   ul.lista-ul--color.lista-ul--separador
                       
                       li  
@@ -228,7 +234,9 @@
                       
               
                 .col-md-6.mb-4.mb-md-0.bloque-texto-vineta4-tipos-riesgo
-                    
+                    br
+                    br
+                    br
                     ul.lista-ul--color.lista-ul--separador
                       li
                       li
@@ -251,11 +259,15 @@
           
           .py-3.py-md-4(titulo="Grupo de riesgo 3").tipos-de-riesgo
             .row
-                p Se describe a continuación el grupo de riesgo 3, a partir de la adaptación del Manual de bioseguridad en el laboratorio (OMS, 2005).
-                br
-                br
+
+                p.texto-descripcion-grupos-de-riesgo Se describe a continuación el grupo de riesgo 3, a partir de la adaptación del Manual de bioseguridad en el laboratorio (OMS, 2005).
+                
 
                 .col-md-6.mb-4.mb-md-0.bloque-texto-vineta3-tipos-riesgo
+
+                  br
+                  br
+                  br
 
                   ul.lista-ul--color.lista-ul--separador
                       li
@@ -279,6 +291,10 @@
 
 
                 .col-md-6.mb-4.mb-md-0.bloque-texto-vineta4-tipos-riesgo
+
+                  br
+                  br
+                  br
   
                   ul.lista-ul--color.lista-ul--separador
                     li
@@ -302,11 +318,13 @@
 
           .py-3.py-md-4(titulo="Grupo de riesgo 4").tipos-de-riesgo
             .row
-                p Se describe a continuación el grupo de riesgo 4, a partir de adaptación del Manual de bioseguridad en el laboratorio (OMS, 2005).
-                br
-                br
-
+                
+                p.texto-descripcion-grupos-de-riesgo Se describe a continuación el grupo de riesgo 4, a partir de adaptación del Manual de bioseguridad en el laboratorio (OMS, 2005).
+                
                 .col-md-6.mb-4.mb-md-0.bloque-texto-vineta3-tipos-riesgo
+                  br
+                  br
+                  br
 
                   ul.lista-ul--color.lista-ul--separador
                       li
@@ -333,7 +351,9 @@
     
 
                 .col-md-6.mb-4.mb-md-0.bloque-texto-vineta4-tipos-riesgo
-                  
+                  br
+                  br
+                  br
                   ul.lista-ul--color.lista-ul--separador
                     li
                     li
@@ -355,7 +375,7 @@
     .row.tarjeta.tarjeta--blanca.p-3
       
       #Clasificacion_de_sustancias_en_laboratorios
-      .titulo-segundo.color-acento-botones
+      .titulo-segundo.color-acento-contenido
         h2 2.2  Clasificación de sustancias en laboratorios
 
       .row.justify-content-around.align-items-center

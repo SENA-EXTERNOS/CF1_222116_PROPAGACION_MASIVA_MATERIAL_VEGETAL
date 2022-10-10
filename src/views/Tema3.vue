@@ -25,7 +25,7 @@
       .row.tarjeta.tarjeta--blanca.justify-content-around.align-items-center
 
         #Laboratorio_de_biotecnologia_Vegetal
-        .titulo-segundo.color-acento-botones
+        .titulo-segundo.color-acento-contenido
           h2 3.1  Laboratorio de biotecnología Vegetal
       
 
@@ -42,7 +42,7 @@
 
       .row.tarjeta.tarjeta--blanca.p-2.p-md-3
         #Caracteristicas_fisicas
-        .titulo-segundo.color-acento-botones
+        .titulo-segundo.color-acento-contenido
           h2 3.2  Características físicas
 
         figure
@@ -54,7 +54,7 @@
 
       .row.justify-content-around.align-items-center
         #Equipamiento_y_materiales_basicos_en_laboratorios
-          .titulo-segundo.color-acento-botones
+          .titulo-segundo.color-acento-contenido
             h2 3.3 Equipamiento y materiales básicos en laboratorios
       
         .col-lg-5

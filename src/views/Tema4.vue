@@ -172,7 +172,7 @@
       .row.justify-content-around.align-items-center
 
         #Caracteristicas_fisicas
-        .titulo-segundo.color-acento-botones
+        .titulo-segundo.color-acento-contenido
           h2 4.1  Contaminación cruzada
           
         .row        
@@ -200,7 +200,7 @@
       .row.justify-content-around.align-items-center
 
         #Caracteristicas_fisicas
-        .titulo-segundo.color-acento-botones
+        .titulo-segundo.color-acento-contenido
           h2 4.2  Residuos y tipos de residuos
           
         .row.align-items-center        
@@ -259,7 +259,7 @@
         .row.justify-content-around.align-items-center
 
           #Caracteristicas_fisicas
-          .titulo-segundo.color-acento-botones
+          .titulo-segundo.color-acento-contenido
             h2 4.2  Disposición adecuada de residuos en laboratorios
           
           p El manejo de los residuos en el laboratorio, al igual que en cualquier otro tipo de ambiente, debe estar previamente establecido desde su separación hasta la disposición final del mismo, dado su tipo, este tendrá sus respectivos protocolos de recolección y traslado como se observa en la imagen 57. La disposición adecuada de residuos es todo un proceso de gran importancia en cuanto a bioseguridad, pues él no tratar de manera adecuada los residuos previamente a su vertimiento, pueden generar un impacto negativo en el medio ambiente.

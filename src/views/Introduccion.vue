@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span
-          i.fas.fa-info
+          i.fas.fa-info.bloque-texto-color-blanco
       h1 Introducción
     
     .row.justify-content-around.align-items-center
