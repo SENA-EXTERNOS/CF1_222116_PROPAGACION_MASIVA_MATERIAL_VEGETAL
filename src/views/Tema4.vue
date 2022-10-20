@@ -50,7 +50,7 @@
                   .lista-agentes-contaminantes  
                     ul.lista-ul--color
                       
-                      h4 Agentes químicos:
+                      //h4 Agentes químicos:
                       
                       li 
                         i.fas.fa-atom
@@ -77,7 +77,7 @@
                     .col-sm.mb-5.mb-sm-0
                       .lista-agentes-contaminantes  
                         ul.lista-ul--color
-                          h4 Agentes biológicos:
+                          //h4 Agentes biológicos:
                           li 
                             i.fas.fa-atom
                             | Bacterias
@@ -104,7 +104,7 @@
                     .col-sm.mb-5.mb-sm-0
                       .lista-agentes-contaminantes  
                         ul.lista-ul--color
-                          h4 Agentes físicos:
+                          //h4 Agentes físicos:
                           li 
                             i.fas.fa-atom
                             | Vidrio 
@@ -164,7 +164,7 @@
 
                 .col-md-6
                   figure
-                    img(data-aos="fade-left")(src='@/assets/curso/imagen3-slider-tema4.svg', alt='Texto que describa la imagen').imagen-slider-tema4
+                    img(data-aos="fade-left")(src='@/assets/curso/imagen-3-slider-tema4.png', alt='Texto que describa la imagen').imagen-slider-tema4
                     //figcaption Leyenda de la imagen
         separador
       
@@ -193,7 +193,7 @@
                 img(src="@/assets/curso/imagen2-contaminacion-cruzada.png")
 
           .col-lg-7
-                p.p-4 En el laboratorio la contaminación cruzada, podrá darse de manera in vivo o directa, cuando se ha dejado muestras de ensayo sobre el objeto de estudio, o ex vivo o indirecta, cuando la muestra a trabajar se ha dejado expuesta sin ningún tipo de control, la contaminación cruzada podrá empezar con el ingreso de un trabajador o practicante que no realizó el protocolo de limpieza adecuado. Tener definidos los procesos de limpieza, las secuencias de limpieza, selección de agentes de limpieza, más los protocolos de manipulación, permitirán contrarrestar la contaminación cruzada y permitir la trazabilidad en los procesos que se lleven a cabo en la práctica de laboratorio.
+                p.p-4 En el laboratorio la contaminación cruzada, podrá darse de manera <em>in vivo</em> o directa, cuando se ha dejado muestras de ensayo sobre el objeto de estudio, o <em>ex vivo</em> o indirecta, cuando la muestra a trabajar se ha dejado expuesta sin ningún tipo de control, la contaminación cruzada podrá empezar con el ingreso de un trabajador o practicante que no realizó el protocolo de limpieza adecuado. Tener definidos los procesos de limpieza, las secuencias de limpieza, selección de agentes de limpieza, más los protocolos de manipulación, permitirán contrarrestar la contaminación cruzada y permitir la trazabilidad en los procesos que se lleven a cabo en la práctica de laboratorio.
         
         separador
 
@@ -251,7 +251,7 @@
                 img(src="@/assets/curso/imagen3-residuos-y-tipos.png").imagen-texto-destacado-tema4
             
             .col-lg-7.color-texto-destacado-tema4
-              p.bloque-texto-destacado-tema4.p-3 Al revisar el listado anterior, que puede ser más amplio, puntualizando en una práctica de laboratorio como propagación de material vegetal in vitro, se podrían generar algunos residuos líquidos como sustancias químicas sulfatadas o nitratos. Residuos semisólidos como geles o agares, o quizás medios de cultivos contaminados con microorganismos, sólidos como detergentes, muestras vegetales y por qué no, algunos residuos como vidrio si es el caso de un inconveniente técnico.
+              p.bloque-texto-destacado-tema4.p-3 Al revisar el listado anterior, que puede ser más amplio, puntualizando en una práctica de laboratorio como propagación de material vegetal <em>in vitro</em>, se podrían generar algunos residuos líquidos como sustancias químicas sulfatadas o nitratos. Residuos semisólidos como geles o agares, o quizás medios de cultivos contaminados con microorganismos, sólidos como detergentes, muestras vegetales y por qué no, algunos residuos como vidrio si es el caso de un inconveniente técnico.
 
       separador
 
@@ -262,7 +262,7 @@
           .titulo-segundo.color-acento-contenido
             h2 4.2  Disposición adecuada de residuos en laboratorios
           
-          p El manejo de los residuos en el laboratorio, al igual que en cualquier otro tipo de ambiente, debe estar previamente establecido desde su separación hasta la disposición final del mismo, dado su tipo, este tendrá sus respectivos protocolos de recolección y traslado como se observa en la imagen 57. La disposición adecuada de residuos es todo un proceso de gran importancia en cuanto a bioseguridad, pues él no tratar de manera adecuada los residuos previamente a su vertimiento, pueden generar un impacto negativo en el medio ambiente.
+          p El manejo de los residuos en el laboratorio, al igual que en cualquier otro tipo de ambiente, debe estar previamente establecido desde su separación hasta la disposición final del mismo, dado su tipo, este tendrá sus respectivos protocolos de recolección y traslado como se observa en la imagen. La disposición adecuada de residuos es todo un proceso de gran importancia en cuanto a bioseguridad, pues él no tratar de manera adecuada los residuos previamente a su vertimiento, pueden generar un impacto negativo en el medio ambiente.
 
           .subtitulo-ruta-de-residuos
             h5 Ruta de Residuos generados en laboratorio, hasta su disposición final
@@ -314,24 +314,6 @@
                         .lista-ol--cuadro__vineta
                           i.fas.fa-angle-right
                         p.p-1 Combustible alterno
-
-          //.row
-              .col-3
-                figure
-                  img(src="@/assets/curso/imagen-almacen-temporal.png").imagen-ruta-residuos-5
-              
-              .col-3
-                figure
-                  img(src="@/assets/curso/imagen-embalaje.png").imagen-ruta-residuos-6
-              
-              .col-3
-                figure
-                  img(src="@/assets/curso/imagen-recoleccion-externa.png").imagen-ruta-residuos-7
-              
-              .col-3
-                figure
-                  img(src="@/assets/curso/imagen-disposicion-final.png").imagen-ruta-residuos-8
-      
 
 
 

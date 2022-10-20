@@ -58,7 +58,7 @@
           .titulo-segundo.color-acento-contenido
             h2 5.3  Desinfección de material en laboratorio
           
-          p En el caso del material del laboratorio, este no solo se puede y debe desinfectar, sino también esterilizar, puesto que son objetos inanimados. Para llevar a cabo este procedimiento se tienen presente algunas técnicas como: uso de calor en hornos especiales para ello, como se observa en la imagen 61, o con productos químicos, de ésta manera se podrá garantizar que las muestras están libres de microorganismos.
+          p En el caso del material del laboratorio, este no solo se puede y debe desinfectar, sino también esterilizar, puesto que son objetos inanimados. Para llevar a cabo este procedimiento se tienen presente algunas técnicas como: uso de calor en hornos especiales para ello, como se observa en la imagen, o con productos químicos, de ésta manera se podrá garantizar que las muestras están libres de microorganismos.
 
           p Los materiales o instrumentos de laboratorio deberán estar esterilizados antes de las prácticas y así mismo después de ellas.
           

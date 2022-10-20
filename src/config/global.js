@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Biotecnología vegetal',
     descripcionCurso:
-      'En este proceso podrá reconocer y desarrollar la biotecnología vegetal a través del reconocimiento de la  utilización de organismos vivos mediante la manipulación de plantas in vitro, profundizar sobre las implicaciones en el mejoramiento del recurso vegetal para la productividad agrícola, mientras articula los conocimientos sobre equipamiento, medidas de bioseguridad y manejo de residuos en laboratorios.',
+      'En este proceso podrá reconocer y desarrollar la biotecnología vegetal a través del reconocimiento de la  utilización de organismos vivos mediante la manipulación de plantas in <em>vitro</em>, profundizar sobre las implicaciones en el mejoramiento del recurso vegetal para la productividad agrícola, mientras articula los conocimientos sobre equipamiento, medidas de bioseguridad y manejo de residuos en laboratorios.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [

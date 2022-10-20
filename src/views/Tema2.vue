@@ -35,12 +35,12 @@
         
         .row.justify-content-around.align-items-center
           
-          .col-lg-6
+          .col-lg-7
             .tarjeta.tarjeta--blanca.p-3
               //(data-aos="fade-left")
               img(src="@/assets/curso/imagen2-bioseguridad-en-laboratorios.png")
           
-          .col-lg-6
+          .col-lg-5
             .col-sm.mb-5.mb-sm-0
               
               ul.lista-ul--color
@@ -80,7 +80,7 @@
       
         .col-lg-5
           .bloque-texto-mitad-color-izquierda-niveles-riesgo.p-1
-            p.p-4 Si bien, son muchos los objetivos que reúnen una práctica de laboratorio, no todos estos deben cumplir con el mismo protocolo de bioseguridad, sus características y alcances pueden determinar el nivel al que pertenece. La seguridad, dependiendo del riesgo que alcance su desarrollo en el laboratorio, clasifica el nivel de bioseguridad al que éste pertenece, lo cual indica qué nivel de contención requiere para no tener ese riesgo, por consiguiente, este tipo de descripción no solamente indica el nivel de bioseguridad, sino también especifica el tipo de técnica microbiológica apropiada y el equipamiento personal requerido. Si el número de riesgo aumenta, quiere decir que allí se realiza una práctica de mayor complejidad con técnicas microbiológicas más complejas, y esto incide en un nivel de bioseguridad más alto.  
+            p.p-4 Si bien, son muchos los objetivos que reúnen una práctica de laboratorio, no todos estos deben cumplir con el mismo protocolo de bioseguridad, sus características y alcances pueden determinar el nivel al que pertenece. La seguridad, dependiendo del riesgo que alcance su desarrollo en el laboratorio, clasifica el nivel de bioseguridad al que éste pertenece, lo cual indica qué nivel de contención requiere para no tener ese riesgo, por consiguiente, este tipo de descripción no solamente indica el nivel de bioseguridad, sino también especifica el tipo de técnica microbiológica apropiada y el equipamiento personal requerido. Si el número de riesgo aumenta, quiere decir que allí se realiza una práctica de mayor complejidad con técnicas microbiológicas más complejas, y esto incide en un nivel de bioseguridad más alto. Estos riesgos se clasifican de la siguiente manera:
 
         .col-lg-7
           .tarjeta.tarjeta--blanca.p-3(data-aos="flip-left")
@@ -110,7 +110,7 @@
                     img(src="@/assets/curso/imagen-tipos-riesgo-biologico.svg", alt="alt").img100.imagen-tarjetas-tipos-de-riesgo-1
                 .col-7
                   h5 Biológicos:
-                  p Riesgo por algún microorganismo.
+                  p riesgo por algún microorganismo.
             br
             br
 
@@ -121,7 +121,7 @@
                     img(src="@/assets/curso/imagen-tipos-riesgo-quimico.svg", alt="alt").img100.imagen-tarjetas-tipos-de-riesgo-2
                 .col-7
                   h5 Químicos:
-                  p Riesgo por alguna sustancia o estado de la misma.
+                  p riesgo por alguna sustancia o estado de la misma.
             br
             br
 
@@ -132,7 +132,7 @@
                     img(src="@/assets/curso/imagen-tipos-riesgo-fisicos.svg", alt="alt").img100.imagen-tarjetas-tipos-de-riesgo-3
                 .col-10
                   h5 Físicos:
-                  p En las interacciones en el espacio, se pueden presentar accidentes eléctricos, dado el gran número de aparatos y equipos como centrífugas, hornos, agitadores magnéticos, riesgos por cortes con vidrios o material corto punzante, quemaduras ante el uso de mecheros, calentadores o por emisión de vapor, durante algún procedimiento, entre otros.
+                  p en las interacciones en el espacio, se pueden presentar accidentes eléctricos, dado el gran número de aparatos y equipos como centrífugas, hornos, agitadores magnéticos, riesgos por cortes con vidrios o material corto punzante, quemaduras ante el uso de mecheros, calentadores o por emisión de vapor, durante algún procedimiento, entre otros.
     
     .container.tarjeta--blanca.justify-content-center.mb-5
 
@@ -182,7 +182,7 @@
                           .col-2
                             img(src="@/assets/curso/viñeta-practicas-laboratorio.svg", alt="alt").img100.vineta3-tipos-riesgo
                           .col-11
-                            h5 Practicas de laboratorio 
+                            h5 Prácticas de laboratorio 
                             p Técnicas Microbiológicas Apropiadas - TMA.
 
                       li
@@ -244,7 +244,7 @@
                           .col-2
                             img(src="@/assets/curso/viñeta-practicas-laboratorio2.svg", alt="alt").img100.vineta3-tipos-riesgo
                           .col-11
-                            h5 Practicas de laboratorio 
+                            h5 Prácticas de laboratorio 
                             p.texto-columna-grupos-de-riesgo Técnicas Microbiológicas Apropiadas - TMA y ropa protectora, señal de riesgo biológico.
 
                       li
@@ -303,7 +303,7 @@
                         .col-2
                           img(src="@/assets/curso/viñeta-practicas-laboratorio3.svg", alt="alt").img100.vineta3-tipos-riesgo
                         .col-11
-                          h5 Practicas de laboratorio 
+                          h5 Prácticas de laboratorio 
                           p.texto-columna-grupos-de-riesgo Prácticas de nivel 2, más ropa especial, acceso controlado y flujo direccional del aire.
 
                     li
@@ -361,7 +361,7 @@
                         .col-2
                           img(src="@/assets/curso/viñeta-practicas-laboratorio4.svg", alt="alt").img100.vineta3-tipos-riesgo
                         .col-12
-                          h5 Practicas de laboratorio 
+                          h5 Prácticas de laboratorio 
                           p.texto-columna-grupos-de-riesgo Prácticas de nivel 3, más cámaras de entrada con cierre hermético, salida con ducha y eliminación especial de residuos.
 
                     li
@@ -393,13 +393,14 @@
       br
       br
 
-      p En temas de bioseguridad en laboratorios, las sustancias pueden ser clasificadas con respecto a su peligrosidad, entre éstas puede observarse características como: explosivas, inflamables, tóxicas, corrosivas, irritantes, entre otras más específicas. Sin embargo, siguiendo el concepto de bioseguridad, estas deberán estar identificadas y referenciadas en cuanto a su manejo y almacenamiento y ser visibilizadas a través de pictogramas que muestran su peligrosidad como se observa en los siguientes iconos. Para ampliar su conocimiento sobre los tipos de sustancias químicas y su peligrosidad, puede visitar el Manual de uso de productos químicos de la Universidad Pública de Navarra - UPNA, el cual lo encuentra en el material complementario.
+      p Estas  sustancias pueden ser clasificadas con respecto a su peligrosidad, entre éstas puede observarse características como: explosivas, inflamables, tóxicas, corrosivas, irritantes, entre otras más específicas. Sin embargo, siguiendo el concepto de bioseguridad, estas deberán estar identificadas y referenciadas en cuanto a su manejo y almacenamiento y ser visibilizadas a través de pictogramas que muestran su peligrosidad como se observa en los siguientes iconos. Para ampliar su conocimiento sobre los tipos de sustancias químicas y su peligrosidad, puede visitar el Manual de uso de productos químicos de la Universidad Pública de Navarra - UPNA, el cual lo encuentra en el material complementario.
+
       
       .imagen-fondo-punto-caliente-tema2
         figure
             img(src='@/assets/curso/fondo-infografia-punto-caliente.svg', alt='Texto que describa la imagen')
 
-      ImagenInfografica.color-primario
+      ImagenInfografica.color-acento-botones
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/imagen-infografia-punto-caliente.svg', alt='Texto que describa la imagen')

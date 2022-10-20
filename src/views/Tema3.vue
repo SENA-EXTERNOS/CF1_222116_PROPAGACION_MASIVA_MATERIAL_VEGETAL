@@ -32,7 +32,7 @@
               
         .col-lg-5
           .bloque-texto-mitad-color-izquierda-lab-biotecnologia-vegetal.p-1
-            p.p-2 Es un lugar destinado, indicado e idóneo para tal fin, se encuentra equipado de tecnología, material biológico que puede ser tejidos vegetales, y el equipo humano capacitado en diferentes especialidades para desarrollar cada una de las actividades. En el laboratorio de biotecnología vegetal se desarrollan técnicas experimentales en cultivo de tejidos vegetales, utilizando el mejoramiento genético y herramientas para la multiplicación o propagación de plantas in vitro, teniendo en cuenta todos los protocolos de seguridad previamente establecidos para su cuidado, y los conocimientos requeridos para el desarrollo de las técnicas.
+            p.p-2 Es un lugar destinado, indicado e idóneo para tal fin, se encuentra equipado de tecnología, material biológico que puede ser tejidos vegetales, y el equipo humano capacitado en diferentes especialidades para desarrollar cada una de las actividades. En el laboratorio de biotecnología vegetal se desarrollan técnicas experimentales en cultivo de tejidos vegetales, utilizando el mejoramiento genético y herramientas para la multiplicación o propagación de plantas <em>in vitro</em>, teniendo en cuenta todos los protocolos de seguridad previamente establecidos para su cuidado, y los conocimientos requeridos para el desarrollo de las técnicas.
 
         .col-lg-7
           .tarjeta.tarjeta--blanca.p-3
@@ -58,7 +58,7 @@
             h2 3.3 Equipamiento y materiales básicos en laboratorios
       
         .col-lg-5
-            p.p-4 Una vez reconocida la importancia del laboratorio dentro de las practicas biotecnológicas, es necesario contar con la instrumentación y herramientas que la materialicen. La vanguardia en instrumentación y actualización de procedimientos son indispensables, resaltan la interdisciplinaridad del aporte de áreas afines con la biología vegetal como, por ejemplo, las matemáticas en el uso y conversión de unidades de medida, o la química en la composición de sustancias, entre otras.
+            p.p-4 Una vez reconocida la importancia del laboratorio dentro de las prácticas biotecnológicas, es necesario contar con la instrumentación y herramientas que la materialicen. La vanguardia en instrumentación y actualización de procedimientos son indispensables, resaltan la interdisciplinaridad del aporte de áreas afines con la biología vegetal como, por ejemplo, las matemáticas en el uso y conversión de unidades de medida, o la química en la composición de sustancias, entre otras.
             p.p-4 Recopilación de materiales usados en laboratorios de biotecnología vegetal.
 
         .col-lg-7

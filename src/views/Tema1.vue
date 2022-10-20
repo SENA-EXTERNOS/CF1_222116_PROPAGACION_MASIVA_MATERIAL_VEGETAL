@@ -11,7 +11,7 @@
     .row.justify-content-around.align-items-center
           .col-md.col-lg-8
             .cajon.color-primario.p-4
-              p.p-4 Para iniciar el aprendizaje sobre propagación de material vegetal in vitro, debe conocer las bases teóricas de la biotecnología, la cual es un referente de las ciencias que involucra un gran número de disciplinas o áreas temáticas para desarrollar su contenido, como lo es la ingeniería genética y la microbiología, así se convierte la biotecnología en una ciencia que ha revolucionado al mundo con sus prácticas y que ha sido una herramienta de las compañías multinacionales para generar grandes beneficios, y quizá también problemas a la humanidad, tales como una mayor deforestación por la agricultura intensiva 
+              p.p-4 Para iniciar el aprendizaje sobre propagación de material vegetal <em>in vitro</em>, debe conocer las bases teóricas de la biotecnología, la cual es un referente de las ciencias que involucra un gran número de disciplinas o áreas temáticas para desarrollar su contenido, como lo es la ingeniería genética y la microbiología, así se convierte la biotecnología en una ciencia que ha revolucionado al mundo con sus prácticas y que ha sido una herramienta de las compañías multinacionales para generar grandes beneficios, y quizá también problemas a la humanidad, tales como una mayor deforestación por la agricultura intensiva 
                 span.text-bold (Espinoza, 2018).
             br
             p La participación de la microbiología en desarrollos biotecnológicos resulta indispensable, pues es a partir de ésta que se obtiene la información del microorganismo que se pretende utilizar en determinado proceso; la microbiología, unida a la ingeniería genética, da origen a integraciones que permiten determinar las características que presenta cada tipo de biotecnología como lo son la biotecnología animal, la vegetal, la forense, la médica, entre otras; por consiguiente, la biotecnología se clasifica por colores, dependiendo de sus aplicaciones y líneas de trabajo más representativas.
@@ -111,7 +111,7 @@
 
         #Biotecnologia_vegetal_y_cultivo_de_plantas_in_vitro
         .titulo-segundo.color-acento-contenido
-          h2 1.2 Biotecnología vegetal y cultivo de plantas in vitro
+          h2 1.2 Biotecnología vegetal y cultivo de plantas <em>in vitro</em>
 
         .row.justify-content-around.align-items-center
           
@@ -120,7 +120,7 @@
             .bloque-texto-color-rojo.p-1
               p.bloque-texto-mitad-color-izquierda.p-4 A escala mundial, el recurso vegetal es históricamente mejorado en aspectos de fenotipo y genotipo en búsqueda de adaptaciones al medio ambiente, o a las disposiciones que demanda la alimentación. En la actualidad, esto se logra con la aplicación de la biotecnología vegetal, la cual aporta positivamente al sector agrícola permitiendo el control de variables ambientales, en busca de cualidades genéticas de una manera más precisa.
             p A través del tiempo, la biotecnología ha tenido importantes desarrollos como se explica a continuación.
-            p Con un recorrido de tiempo importante desde el uso de los tejidos vegetales, la biotecnología vegetal implementa el método del cultivo de plantas in vitro, y fue a partir de la evolución del conocimiento, que en el pasado permitió reproducir de manera asexual una especie vegetal, que hoy en día, bajo la manipulación de tejidos vegetales diferenciados, se logra obtener plantas iguales a aquellas que presentan sus mejores expresiones fenotípicas, y aún más, bajo el uso de ésta técnica se pueden articular tratamientos fisiológicos en su medio de cultivo para condiciones controladas de crecimiento.  
+            p Con un recorrido de tiempo importante desde el uso de los tejidos vegetales, la biotecnología vegetal implementa el método del cultivo de plantas <em>in vitro</em>, y fue a partir de la evolución del conocimiento, que en el pasado permitió reproducir de manera asexual una especie vegetal, que hoy en día, bajo la manipulación de tejidos vegetales diferenciados, se logra obtener plantas iguales a aquellas que presentan sus mejores expresiones fenotípicas, y aún más, bajo el uso de ésta técnica se pueden articular tratamientos fisiológicos en su medio de cultivo para condiciones controladas de crecimiento.  
           .col-lg-5
             .tarjeta.tarjeta--blanca.text-center.p-3
               img(src="@/assets/curso/imagen-1.2-biotecnologia-vegetal.png")
@@ -175,7 +175,7 @@
                     img(data-aos="flip-right").img200(src='@/assets/curso/imagen6-linea-de-tiempo-vertical.png', alt='Texto que describa la imagen')
                 .col-lg-8.mb-4.mb-lg-0
                   //h4 Objetivos de Desarrollo Sostenible (ODS) de las Naciones Unidas
-                  p.texto-linea-de-tiempo Hoy, siglo XXI, gracias a todos estos eventos, otros procesos se han venido innovando a través de la biotecnología vegetal, como el cultivo de plantas in vitro, la transgénesis entre otras. Uno de los aspectos en los que la biotecnología ha incursionado es los laboratorios;  Veamos…
+                  p.texto-linea-de-tiempo Hoy, siglo XXI, gracias a todos estos eventos, otros procesos se han venido innovando a través de la biotecnología vegetal, como el cultivo de plantas <em>in vitro, la transgénesis</em> entre otras. Uno de los aspectos en los que la biotecnología ha incursionado en los laboratorios;  Veamos…
                             
         
 
