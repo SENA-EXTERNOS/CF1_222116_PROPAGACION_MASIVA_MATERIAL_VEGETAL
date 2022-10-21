@@ -38,7 +38,7 @@
           .col-lg-7
             .tarjeta.tarjeta--blanca.p-3
               //(data-aos="fade-left")
-              img(src="@/assets/curso/imagen2-bioseguridad-en-laboratorios.png")
+              img(src="@/assets/curso/imagen2-bioseguridad-laboratorios.png")
           
           .col-lg-5
             .col-sm.mb-5.mb-sm-0
