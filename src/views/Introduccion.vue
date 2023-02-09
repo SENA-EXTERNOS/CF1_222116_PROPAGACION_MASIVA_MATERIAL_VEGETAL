@@ -13,7 +13,7 @@
 
       .col-md.col-lg-7
         
-        p.p-1 Apreciado aprendiz, reciban una cordial bienvenida a este componente formativo en el cual se desarrollarán temáticas relacionadas con la implementación de espacios y técnicas en biotecnología vegetal, como aporte al desarrollo agronómico y mejoramiento del sector agroindustrial. Durante este proceso se va a reconocer la biotecnología como área interdisciplinar y luego en laboratorios. Así mismo se explica el ambiente de praxis de la biotecnología, seguido de agentes contaminantes y su manejo en prácticas de laboratorio. Finalmente se describe la prevención básica en procedimientos de laboratorio. Lo invitamos a iniciar este recorrido observando el siguiente video.
+        p.p-1 Apreciado aprendiz, bienvenido a este componente formativo, donde se trabajará en torno a temáticas relacionadas con la implementación de espacios y técnicas en biotecnología vegetal, como aporte al desarrollo agrícola y mejoramiento del sector agroindustrial. Durante este proceso se va a aprender sobre la biotecnología como área interdisciplinar y en laboratorios. También se explica el ambiente de praxis de la biotecnología, seguido de agentes contaminantes y su manejo en prácticas de laboratorio. Finalmente, se describe la prevención básica en procedimientos de laboratorio. En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
         
       
       .col-md.col-lg-5

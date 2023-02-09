@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Biotecnología vegetal',
     descripcionCurso:
-      'En este proceso podrá reconocer y desarrollar la biotecnología vegetal a través del reconocimiento de la  utilización de organismos vivos mediante la manipulación de plantas in <em>vitro</em>, profundizar sobre las implicaciones en el mejoramiento del recurso vegetal para la productividad agrícola, mientras articula los conocimientos sobre equipamiento, medidas de bioseguridad y manejo de residuos en laboratorios.',
+      'En este proceso podrá reconocer y desarrollar la biotecnología vegetal a través del reconocimiento de la utilización de organismos vivos mediante la manipulación de plantas <em>in vitro</em>, profundizar sobre las implicaciones en el mejoramiento del recurso vegetal para la productividad agrícola, mientras articula los conocimientos sobre equipamiento, medidas de bioseguridad y manejo de residuos en laboratorios.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -43,20 +43,6 @@ export default {
         numero: '1',
         titulo: 'Biotecnología como área interdisciplinar',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Tipos de biotecnología',
-            hash: 'Tipos_de_biotecnologia',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Biotecnología vegetal y cultivo de plantas in vitro',
-            hash: 'Biotecnologia_vegetal_y_cultivo_de_plantas_in_vitro',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
@@ -64,20 +50,6 @@ export default {
         numero: '2',
         titulo: 'Bioseguridad en laboratorios',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Niveles, riesgos y seguridad en laboratorios',
-            hash: 'Niveles_riesgos_y_seguridad_en_laboratorios',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Clasificación de sustancias en laboratorios',
-            hash: 'Clasificacion_de_sustancias_en_laboratorios',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -85,26 +57,6 @@ export default {
         numero: '3',
         titulo: 'Ambiente de Praxis en Biotecnología',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Laboratorio de biotecnología Vegetal',
-            hash: 'Laboratorio_de_biotecnologia_Vegetal',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Características físicas',
-            hash: 'Caracteristicas_fisicas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Equipamiento y materiales básicos en laboratorios',
-            hash: 'Equipamiento_y_materiales_basicos_en_laboratorios',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -113,26 +65,6 @@ export default {
         titulo:
           'Agentes contaminantes y su manejo en prácticas de laboratorios',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Contaminación cruzada',
-            hash: 'Contaminacion_cruzada',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Residuos y tipos de residuos',
-            hash: 'Residuos_y_tipos_de_residuos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.3',
-            titulo: 'Disposición adecuada de residuos en laboratorios',
-            hash: 'Disposicion_adecuada_de_residuos_en_laboratorios',
-          },
-        ],
       },
       {
         nombreRuta: 'tema5',
@@ -140,26 +72,6 @@ export default {
         numero: '5',
         titulo: 'Prevención básica en procedimientos de laboratorio',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Acciones de asepsia en laboratorios',
-            hash: 'Acciones_de_asepsia_en_laboratorios',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Desinfección, limpieza personal',
-            hash: 'Desinfeccion_limpieza_personal',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.3',
-            titulo: 'Desinfección de material en laboratorio',
-            hash: 'Desinfeccion_de_material_en_laboratorio',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -204,7 +116,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Espinoza, E. F. (2018). Biotecnología para la agricultura moderna. Ciencia 69, (4) p1-6.',
+        'Espinoza, E. F. (2018). Biotecnología para la agricultura moderna. Ciencia, 69(4), p. 1-6.',
       //link:
       //'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
     },
@@ -216,20 +128,14 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social, Bogotá, (octubre de 2020) Lineamientos generales de la bioseguridad y la biocontención para los laboratorios de la red Nacional de laboratorios.',
+        'Ministerio de Salud y Protección Social. (2020) <em>Lineamientos generales de la bioseguridad y la biocontención para los laboratorios de la red Nacional de laboratorios.</em> ',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/VSP/psps03-lineamiento-bioseguridad-red-nal-lab.pdf',
     },
     {
       referencia:
-        'Organización Mundial de la Salud.(2005).Manual de Bioseguridad en el Laboratorio.3a ed.',
+        'Organización Mundial de la Salud. (2005). Manual de Bioseguridad en el Laboratorio (3ra. edición). ',
       link: 'https://apps.who.int/iris/handle/10665/43255',
-    },
-    {
-      referencia:
-        'Real academia española. (2014). Diccionario de la lengua española, 23aed',
-      //link:
-      //  'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
     },
   ],
   glosario: [
@@ -289,25 +195,17 @@ export default {
   ],
   complementario: [
     {
-      tema: 'Bioseguridad en laboratorios.',
+      tema: 'Bioseguridad en laboratorios',
       referencia:
-        'Universidad Pública de Navarra (2017). Manual de uso de productos químicos.',
+        'Universidad Pública de Navarra. (2017). Manual de uso de productos químicos',
       tipo: 'Manual',
       link:
         'http://www.unavarra.es/digitalAssets/146/146686_100000Manual-de-uso-de-productos-quimicos.pdf',
     },
     {
-      tema: 'Clasificación de sustancias en laboratorios',
+      tema: 'Prevención básica en procedimientos de laboratorio',
       referencia:
-        'Manual de uso de Productos Químicos. Universidad Pública de Navarra. PDF.',
-      tipo: 'Manual',
-      link:
-        'http://www.unavarra.es/digitalAssets/146/146686_100000Manual-de-uso-de-productos-quimicos.pdf',
-    },
-    {
-      tema: 'Desinfección, limpieza personal',
-      referencia:
-        'Asociados-Fondecyt-CONICYT.(2018) Manual de Normas de Bioseguridad y Riesgos.',
+        'Asociados-Fondecyt-CONICYT. (2018). <em>Manual de Normas de Bioseguridad y Riesgos.</em>  ',
       tipo: 'Manual',
       link:
         'https://www.conicyt.cl/fondecyt/files/2018/06/Manual-_Bioseguridad-_junio_2018.pdf',
@@ -315,8 +213,8 @@ export default {
     {
       tema: 'Prevención básica en procedimientos de laboratorio',
       referencia:
-        'Universidad de las Islas Baleares.(2016) Prevención de Riesgos en Laboratorios de Investigación y de Prácticas.',
-      tipo: 'Documento',
+        'Universidad de las Islas Baleares. (2016). <em>Prevención de Riesgos en Laboratorios de Investigación y de Prácticas.</em>',
+      tipo: 'Documento ',
       link:
         'https://prevencio.uib.cat/digitalAssets/192/192010_ficha-laboratorios.pdf',
     },

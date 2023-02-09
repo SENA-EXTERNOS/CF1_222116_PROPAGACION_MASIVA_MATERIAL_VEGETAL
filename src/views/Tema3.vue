@@ -6,15 +6,17 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 3
-        h1 Ambiente de Praxis en Biotecnología
+        h1 Ambiente de praxis en biotecnología
 
       .row.justify-content-around.align-items-center
 
       
         .col-lg-7
           .bloque-texto-mitad-color-izquierda-ambiente-praxis.p-1
-            p.p-4 Como puede observarse, los lugares específicos para realizar proyectos biotecnológicos, disponen de un escenario completo para el desarrollo de sus prácticas, así que dependerá del tipo de biotecnología para el equipamiento del laboratorio, las condiciones de asepsia son siempre programadas y permanentes, se podrá manipular condiciones como la luz, la temperatura, la humedad entre otras, y en algunos casos, éste se verá relacionado o integrado con otros espacios como invernaderos, en donde se llevará a cabo la fase de aclimatación del material vegetal si corresponde.  
-            p.p-4 A continuación, se describen los principales aspectos del laboratorio de biotecnología vegetal
+            p.p-4 Los lugares específicos para realizar proyectos biotecnológicos, disponen de un escenario completo para el desarrollo de sus prácticas; es por eso que, dependiendo del tipo de biotecnología para el equipamiento del laboratorio, las condiciones de asepsia siempre son programadas y permanentes, se pueden manipular condiciones como la luz, la temperatura, la humedad entre otras y, en algunos casos, el lugar se verá relacionado o integrado con otros espacios como invernaderos, en donde se llevará a cabo la fase de aclimatación del material vegetal, si corresponde.
+              br
+              br
+              |A continuación, se describen los principales aspectos del laboratorio de biotecnología vegetal.
 
         .col-lg-5
           .tarjeta.tarjeta--blanca.p-3(data-aos="fade-left")
@@ -24,15 +26,13 @@
 
       .row.tarjeta.tarjeta--blanca.justify-content-around.align-items-center
 
-        #Laboratorio_de_biotecnologia_Vegetal
-        .titulo-segundo.color-acento-contenido
-          h2 3.1  Laboratorio de biotecnología Vegetal
+        h3 Laboratorio de biotecnología Vegetal
       
 
               
         .col-lg-5
           .bloque-texto-mitad-color-izquierda-lab-biotecnologia-vegetal.p-1
-            p.p-2 Es un lugar destinado, indicado e idóneo para tal fin, se encuentra equipado de tecnología, material biológico que puede ser tejidos vegetales, y el equipo humano capacitado en diferentes especialidades para desarrollar cada una de las actividades. En el laboratorio de biotecnología vegetal se desarrollan técnicas experimentales en cultivo de tejidos vegetales, utilizando el mejoramiento genético y herramientas para la multiplicación o propagación de plantas <em>in vitro</em>, teniendo en cuenta todos los protocolos de seguridad previamente establecidos para su cuidado, y los conocimientos requeridos para el desarrollo de las técnicas.
+            p.p-2 Es un lugar destinado, indicado e idóneo, para cumplir con un propósito; se encuentra equipado de tecnología, de material biológico como tejidos vegetales, y del equipo humano capacitado en diferentes especialidades, para desarrollar cada una de las actividades. En el laboratorio de biotecnología vegetal, se desarrollan técnicas experimentales en el cultivo de tejidos vegetales y se utilizan el mejoramiento genético y las herramientas, para la multiplicación o propagación de plantas in vitro, teniendo en cuenta todos los protocolos de seguridad, previamente establecidos para su cuidado, junto con los conocimientos requeridos para el desarrollo de las técnicas.
 
         .col-lg-7
           .tarjeta.tarjeta--blanca.p-3
@@ -41,9 +41,9 @@
       separador
 
       .row.tarjeta.tarjeta--blanca.p-2.p-md-3
-        #Caracteristicas_fisicas
-        .titulo-segundo.color-acento-contenido
-          h2 3.2  Características físicas
+        h3 Características físicas
+        
+        p.mb-5(data-aos='fade-right') Lo invitamos a ver el siguiente video, donde conocerá las características físicas del laboratorio de biotecnología vegetal.
 
         figure
           .video
@@ -53,12 +53,10 @@
       separador
 
       .row.justify-content-around.align-items-center
-        #Equipamiento_y_materiales_basicos_en_laboratorios
-          .titulo-segundo.color-acento-contenido
-            h2 3.3 Equipamiento y materiales básicos en laboratorios
+        h3 Equipamiento y materiales básicos en laboratorios
       
         .col-lg-5
-            p.p-4 Una vez reconocida la importancia del laboratorio dentro de las prácticas biotecnológicas, es necesario contar con la instrumentación y herramientas que la materialicen. La vanguardia en instrumentación y actualización de procedimientos son indispensables, resaltan la interdisciplinaridad del aporte de áreas afines con la biología vegetal como, por ejemplo, las matemáticas en el uso y conversión de unidades de medida, o la química en la composición de sustancias, entre otras.
+            p.p-4 Una vez reconocida la importancia del laboratorio dentro de las prácticas biotecnológicas, es fundamental contar con la instrumentación y las herramientas necesarias para concretar el proceso. También, se hace indispensable estar a la vanguardia en instrumentación y actualización de procedimientos, que colaboren con la integración de áreas afines con la biología vegetal como, por ejemplo, las matemáticas en el uso y conversión de unidades de medida, o la química, en la composición de sustancias, entre otras.
             p.p-4 Recopilación de materiales usados en laboratorios de biotecnología vegetal.
 
         .col-lg-7
