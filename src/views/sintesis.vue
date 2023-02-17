@@ -12,7 +12,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/imagen-sintesis-cf1.png", alt="alt").imagen-sintesis
+          img(src="@/assets/curso/imagen-sintesis-cf1.svg", alt="alt").imagen-sintesis
       .col-auto
         
         a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis-cf1.pdf')" target="_blank")
