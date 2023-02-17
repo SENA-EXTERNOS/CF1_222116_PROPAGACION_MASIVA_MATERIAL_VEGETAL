@@ -4,13 +4,9 @@
   //(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-sexto.color-titulo-sexto
-      h4.texto-titulo-sintesis Propagación masiva de material vegetal.
-      p.texto-titulo-sintesis Síntesis: Biotecnología vegetal.
 
-    br
 
-    p A continuación, usted podrá hacer un recorrido por conceptos y temas que corresponden al desarrollo de la biotecnología vegetal.
+    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
     
     br
 

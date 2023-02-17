@@ -20,7 +20,7 @@
             img(src="@/assets/curso/imagen-agentes-contaminantes-y-su-manejo.png")
 
         p.p-2 Para el desarrollo de actividades en el laboratorio de biotecnología vegetal, en sus respectivas secciones de trabajo, los procedimientos generan unos contaminantes que, si bien alteran los resultados en las prácticas, también pueden ser contaminantes del medio ambiente en general. Estos contaminantes, como también las sustancias, son catalogados como agentes químicos, agentes biológicos o agentes físicos; a continuación, se pueden observar algunos ejemplos.
-        h3.mb-5 Tipos de agentes contaminantes en el laboratorio.
+        h3.mb-5 Tipos de agentes contaminantes en el laboratorio
       
       .row.justify-content-center
       
@@ -116,57 +116,46 @@
                             | Hisopos
                           
                           br
-        br
-        br
 
-        .container.justify-content-center
-          
-          br
-          br
-          figure
-            img(src='@/assets/curso/imagen-fondo-slider-tema4.png', alt='Texto que describa la imagen').imagen-fondo-slider-tema4
 
-          p Para el manejo adecuado de los agentes contaminantes, se han socializado los riesgos por sustancias ya clasificadas, así como también se ha nombrado una amplia cantidad de elementos que integran el equipamiento del laboratorio y que pueden generar un riesgo si no son manipulados con los debidos procedimientos, como se presenta a continuación.
+        p Para el manejo adecuado de los agentes contaminantes, se han socializado los riesgos por sustancias ya clasificadas, así como también se ha nombrado una amplia cantidad de elementos que integran el equipamiento del laboratorio y que pueden generar un riesgo si no son manipulados con los debidos procedimientos, como se presenta a continuación.
           
-          .tarjeta.color-fondo-reactivos-o-insumos.tarjetas-slider-tema4.p-4.mb-5
-            figure
-                img(src='@/assets/curso/imagen-fondo-slider1-tema4.svg', alt='Texto que describa la imagen').imagen-fondo-slider-pequeno-tema4
                 
-
-            SlyderA(tipo="b")
-              
+        .tarjeta.ft.p-4.mb-4
+          SlyderA(tipo="b")
             
-              .row.justify-content-center.align-items-center.my-lg-4
-                .col-md-5
-                  p.bloque-texto-slider Si los agentes contaminantes son de tipo químico, como sustancias volátiles o disolventes que generan vapores, se hace necesario contar con atuendos de protección, que incluyen gafas y mascarillas, para proteger el sistema respiratorio.
+          
+            .row.justify-content-center.align-items-center.mx-5
+              .col-md-7
+                p.bloque-texto-slider Si los agentes contaminantes son de tipo químico, como sustancias volátiles o disolventes que generan vapores, se hace necesario contar con atuendos de protección, que incluyen gafas y mascarillas, para proteger el sistema respiratorio.
 
-                .col-md-6
-                  
-                  figure
-                    img(data-aos="fade-left")(src='@/assets/curso/imagen1-slider-tema4.svg', alt='Texto que describa la imagen').imagen-slider-tema4
-                    //figcaption Leyenda de la imagen
-
-              .row.justify-content-center.align-items-center.my-lg-4
+              .col-md-5
                 
-                .col-md-5
-                  p.bloque-texto-slider Si los agentes contaminantes son físicos, objetos cortopunzantes como jeringas o bisturís que pueden generar cortes, deben requerir de guantes especiales, por si se producen fluidos biológicos, como la sangre. Estos guantes también son de gran utilidad si se manipulan agentes biológicos como bacterias, de tal manera, que se mantengan aislados de la primera línea de defensa del cuerpo, como es la piel.
+                figure
+                  img(data-aos="fade-left")(src='@/assets/curso/imagen1-slider-tema4.svg', alt='Texto que describa la imagen').imagen-slider-tema4
+                  //figcaption Leyenda de la imagen
 
-                .col-md-6
-                  figure
-                    img(data-aos="fade-left")(src='@/assets/curso/imagen2-slider-tema4.png', alt='Texto que describa la imagen').imagen-slider-tema4
-                    //figcaption Leyenda de la imagen
+            .row.justify-content-center.align-items-center.mx-5
+              
+              .col-md-7
+                p.bloque-texto-slider Si los agentes contaminantes son físicos, objetos cortopunzantes como jeringas o bisturís que pueden generar cortes, deben requerir de guantes especiales, por si se producen fluidos biológicos, como la sangre. Estos guantes también son de gran utilidad si se manipulan agentes biológicos como bacterias, de tal manera, que se mantengan aislados de la primera línea de defensa del cuerpo, como es la piel.
+
+              .col-md-5
+                figure
+                  img(data-aos="fade-left")(src='@/assets/curso/imagen2-slider-tema4.png', alt='Texto que describa la imagen').imagen-slider-tema4
+                  //figcaption Leyenda de la imagen
 
 
-              .row.justify-content-center.align-items-center.my-lg-4
-                
-                .col-md-5
-                  p.bloque-texto-slider Los agentes contaminantes como se indica anteriormente, pueden alterar de manera negativa el desarrollo de una muestra importante en el laboratorio; por esta razón, según su manipulación y la concentración para ejecutarlos, se puede prevenir la contaminación, o también deshacerse de estos agentes.
+            .row.justify-content-center.align-items-center.mx-5
+              
+              .col-md-7
+                p.bloque-texto-slider Los agentes contaminantes como se indica anteriormente, pueden alterar de manera negativa el desarrollo de una muestra importante en el laboratorio; por esta razón, según su manipulación y la concentración para ejecutarlos, se puede prevenir la contaminación, o también deshacerse de estos agentes.
 
-                .col-md-6
-                  figure
-                    img(data-aos="fade-left")(src='@/assets/curso/imagen-3-slider-tema4.png', alt='Texto que describa la imagen').imagen-slider-tema4
-                    //figcaption Leyenda de la imagen
-      
+              .col-md-5
+                figure
+                  img(data-aos="fade-left")(src='@/assets/curso/imagen-3-slider-tema4.png', alt='Texto que describa la imagen').imagen-slider-tema4
+                  //figcaption Leyenda de la imagen
+    
       
       .row.justify-content-around.align-items-center
 
@@ -260,7 +249,7 @@
           
           p.mb-5 El manejo de los residuos en el laboratorio, al igual que en cualquier otro ambiente, debe estar previamente establecido desde su separación, hasta la disposición final del mismo; según su clasificación, tendrá sus respectivos protocolos de recolección y traslado, como se observa en la imagen. La disposición adecuada de residuos, es todo un proceso de gran importancia en cuanto a bioseguridad, pues al no manejar de manera adecuada los residuos, previamente a su vertimiento, pueden generar un impacto negativo en el medio ambiente.
 
-          h3 Ruta de residuos generados en laboratorio, hasta su disposición final.
+          h3 Ruta de residuos generados en laboratorio, hasta su disposición final
       .row.justify-content-center.mb-5
         .col-lg-11       
           img(src='@/assets/curso/temas/c1.svg', alt='')

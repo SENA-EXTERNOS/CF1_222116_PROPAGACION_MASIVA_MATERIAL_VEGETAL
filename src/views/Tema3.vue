@@ -26,7 +26,7 @@
 
       .row.tarjeta.tarjeta--blanca.justify-content-around.align-items-center
 
-        h3 Laboratorio de biotecnología Vegetal
+        h3 Laboratorio de biotecnología vegetal
       
 
               
@@ -38,7 +38,6 @@
           .tarjeta.tarjeta--blanca.p-3
             img(src="@/assets/curso/imagen-laboratorio-biotecnologia-vegetal.png")
       
-      separador
 
       .row.tarjeta.tarjeta--blanca.p-2.p-md-3
         h3 Características físicas
@@ -50,7 +49,6 @@
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           //figcaption Video: Leyenda del video
 
-      separador
 
       .row.justify-content-around.align-items-center
         h3 Equipamiento y materiales básicos en laboratorios

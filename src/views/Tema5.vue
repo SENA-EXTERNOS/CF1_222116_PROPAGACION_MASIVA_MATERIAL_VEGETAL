@@ -44,7 +44,7 @@
           h3 Desinfección, limpieza personal
 
           .col-lg-6
-            p.p-4 Uno de los inicios en el desarrollo de las prácticas de laboratorio, consiste en la desinfección personal; se debe tener claridad que es correcto decir desinfección y no esterilización personal, porque solo se esterilizan objetos o instrumentos, mientras que se desinfectan objetos o tejidos vivos; dejando claro lo anterior, antes de iniciar, siempre se debe usar bata antifluidos, gafas, guantes, zapatos cerrados, cabello recogidolavarse las manos, así como también, mantener limpias las mesas antes y después del procedimiento. 
+            p.p-4 Uno de los inicios en el desarrollo de las prácticas de laboratorio, consiste en la desinfección personal; se debe tener claridad que es correcto decir desinfección y no esterilización personal, porque solo se esterilizan objetos o instrumentos, mientras que se desinfectan objetos o tejidos vivos; dejando claro lo anterior, antes de iniciar, siempre se debe usar bata antifluidos, gafas, guantes, zapatos cerrados, cabello recogido, lavarse las manos, así como también, mantener limpias las mesas antes y después del procedimiento. 
               br
               |Puede obtener más información sobre esta temática, consultando el Manual de Normas de Bioseguridad y Riesgos Asociados-Fondecyt-CONICYT, en el capítulo sobre seguridad en el laboratorio, que se relaciona en el material complementario.
   
@@ -63,16 +63,12 @@
             br
             |Los materiales o instrumentos de laboratorio, deberán estar esterilizados antes de las prácticas, y lo mismo después de ellas.
 
+
           
-          .subtitulo-desinfeccion-de-material
-            h4 Autoclave, herramienta de esterilización en laboratorios
 
           br
           br
 
-          .imagen-fondo-desinfeccion-de-material
-            figure
-              img(src="@/assets/curso/fondo-desinfeccion-material-lab.png", alt="alt")
 
         
           br

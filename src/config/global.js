@@ -55,7 +55,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Ambiente de Praxis en Biotecnología',
+        titulo: 'Ambiente de praxis en biotecnología',
         desarrolloContenidos: true,
       },
       {
@@ -197,7 +197,7 @@ export default {
     {
       tema: 'Bioseguridad en laboratorios',
       referencia:
-        'Universidad Pública de Navarra. (2017). Manual de uso de productos químicos',
+        'Universidad Pública de Navarra. (2017). Manual de uso de productos químicos. ',
       tipo: 'Manual',
       link:
         'http://www.unavarra.es/digitalAssets/146/146686_100000Manual-de-uso-de-productos-quimicos.pdf',

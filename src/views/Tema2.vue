@@ -7,14 +7,14 @@
         span 2
       h1 Bioseguridad en laboratorios
       
-    .row.justify-content-around.align-items-center
+    .row.justify-content-around.align-items-center.mb-5
 
         .col-md.col-lg-8
           p Antes de avanzar hacia el conocimiento práctico de la propagación de material vegetal, es importante reconocer todas las implicaciones en cuanto al cuidado propio y el de los demás, por actividades que requieren manejo de sustancias, herramientas o instrumentos programados en los laboratorios o, simplemente, realizar un protocolo de ingreso adecuado, en zonas de atención preferencial.
           .cajon.color-primario.p-3
             p En este orden de ideas, es importante reconocer los conceptos básicos involucrados en la biotecnología, a partir de algunos documentos legales normativos. En el documento: Lineamientos generales de la bioseguridad y la biocontención para los laboratorios de la Red Nacional de Laboratorios, el Ministerio de Salud y Protección Social (Minsalud, 2020, p. 9) relaciona el siguiente concepto:
             br
-            .bloque-texto-f.pt-4.px-5.mb-5
+            .bloque-texto-f.pt-4.px-5
               .bloque-texto-f__comillas
                 i.fas.fa-quote-left
                 i.fas.fa-quote-right
@@ -25,10 +25,8 @@
         .col-lg-4
           .tarjeta.tarjeta--blanca.p-3(data-aos="fade-left")
             img(src="@/assets/curso/imagen1-bioseguridad-en-laboratorios.png")
-    br
-    br    
-    p Todas las normas para proteger la salud y la integridad física, mientras se llevan a cabo funciones desarrolladas en laboratorios, deben ser interiorizadas, así que todas las herramientas aquí dispuestas, serán de gran utilidad para una formación integral, pues la normatividad básica, en cualquier nivel de laboratorio, contiene las normas en bioseguridad propias para el desarrollo de sus objetivos, algunos ejemplos se relacionan a continuación.
 
+    p.mb-5(data-aos='fade-right') Mientras se llevan a cabo funciones desarrolladas en laboratorios, todas las normas para proteger la salud y la integridad física deben ser interiorizadas; todas las herramientas aquí dispuestas, serán de gran utilidad para una formación integral, pues la normatividad básica, en cualquier nivel de laboratorio, contiene las normas en bioseguridad, propias para el desarrollo de sus objetivos; algunos ejemplos se relacionan a continuación.
 
     .row.tarjeta.tarjeta--blanca.p-3
         
@@ -67,74 +65,68 @@
                 li 
                   i.fas.fa-atom
                   | No hacer pruebas organolépticas que impliquen el contacto de sustancias con el cuerpo o el rostro.
-          separador
-
-    .row.tarjeta.tarjeta--blanca.p-3
       
-      h3 2.1 Niveles, riesgos y seguridad en laboratorios
+    h3 Niveles, riesgos y seguridad en laboratorios
 
-      .row.justify-content-around.align-items-center
+    .row.justify-content-around.align-items-center
 
-      
-        .col-lg-5
-          .bloque-texto-mitad-color-izquierda-niveles-riesgo.p-1
-            p.p-4 Aunque son muchos los objetivos que reúnen una práctica de laboratorio, no todos deben cumplir con el mismo protocolo de bioseguridad, porque sus características y alcances pueden determinar el nivel al que pertenece. Dependiendo del riesgo que alcance su desarrollo en el laboratorio, la seguridad, clasifica el nivel de bioseguridad que le concierne, lo cual indica qué nivel de contención requiere para no adquirir ese riesgo; por consiguiente, este tipo de descripción no solamente indica el nivel de bioseguridad, sino que también especifica el tipo de técnica microbiológica apropiada y el equipamiento personal requerido. Si la cantidad de riesgo aumenta, quiere decir que se realiza una práctica de mayor complejidad, con técnicas microbiológicas más complejas, y esto incide en un nivel de bioseguridad más alto.
-
-        .col-lg-7
-          .tarjeta.tarjeta--blanca.p-3(data-aos="flip-left")
-            img(src="@/assets/curso/imagen1-niveles-riesgos-lab.png")
     
-      .row.tarjeta.tarjeta--blanca.p-3
+      .col-lg-5
+        .bloque-texto-mitad-color-izquierda-niveles-riesgo.p-1
+          p.p-4 Aunque son muchos los objetivos que reúnen una práctica de laboratorio, no todos deben cumplir con el mismo protocolo de bioseguridad, porque sus características y alcances pueden determinar el nivel al que pertenece. Dependiendo del riesgo que alcance su desarrollo en el laboratorio, la seguridad, clasifica el nivel de bioseguridad que le concierne, lo cual indica qué nivel de contención requiere para no adquirir ese riesgo; por consiguiente, este tipo de descripción no solamente indica el nivel de bioseguridad, sino que también especifica el tipo de técnica microbiológica apropiada y el equipamiento personal requerido. Si la cantidad de riesgo aumenta, quiere decir que se realiza una práctica de mayor complejidad, con técnicas microbiológicas más complejas, y esto incide en un nivel de bioseguridad más alto.
 
-                
-        figure.imagen-de-fondo-tipos-riesgo
-          img(src='@/assets/curso/fondo-tipos-de-riesgo.png', alt='Texto que describa la imagen')
+      .col-lg-7
+        .tarjeta.tarjeta--blanca.p-3(data-aos="flip-left")
+          img(src="@/assets/curso/imagen1-niveles-riesgos-lab.png")
+  
+    .row.tarjeta.tarjeta--blanca.p-3
+
+              
+      figure.imagen-de-fondo-tipos-riesgo
+        img(src='@/assets/curso/fondo-tipos-de-riesgo.png', alt='Texto que describa la imagen')
+    
+      .row.justify-content-around.align-items-center.p-4
+        p Es deber de todo el personal de laboratorio, conocer todo lo concerniente al tema de seguridad, para poder llevar a cabo el protocolo adecuado. 
+          br
+          br
+          |Se clasifican tres tipos de riesgos:
       
-        .row.justify-content-around.align-items-center.p-4
-          p Es deber de todo el personal de laboratorio, conocer todo lo concerniente al tema de seguridad, para poder llevar a cabo el protocolo adecuado. 
-            br
-            br
-            |Se clasifican tres tipos de riesgos:
+    h4 Tipos de riesgo
+      
+
+      .row.justify-content-center.mb-5
+        .col-lg-9.position-relative
         
-      h4 Tipos de riesgo
-        
-        br
-        br
-        br
+          .tarjeta.tarjetas-tipos-de-riesgo.py-4.p-4
+            .row.align-items-center
+              .col-1
+                figure
+                  img(src="@/assets/curso/imagen-tipos-riesgo-biologico.svg", alt="alt").img100.imagen-tarjetas-tipos-de-riesgo-1
+              .col-7
+                h5 Biológicos:
+                p Riesgo por algún microorganismo.
+          br
+          br
 
-        .row.justify-content-center.mb-5
-          .col-lg-9.position-relative
-          
-            .tarjeta.tarjetas-tipos-de-riesgo.py-4.p-4
-              .row.align-items-center
-                .col-1
-                  figure
-                    img(src="@/assets/curso/imagen-tipos-riesgo-biologico.svg", alt="alt").img100.imagen-tarjetas-tipos-de-riesgo-1
-                .col-7
-                  h5 Biológicos:
-                  p Riesgo por algún microorganismo.
-            br
-            br
+          .tarjeta.tarjetas-tipos-de-riesgo.py-4.p-4
+            .row.align-items-center
+              .col-1
+                figure
+                  img(src="@/assets/curso/imagen-tipos-riesgo-quimico.svg", alt="alt").img100.imagen-tarjetas-tipos-de-riesgo-2
+              .col-7
+                h5 Químicos:
+                p Riesgo por alguna sustancia o estado de la misma.
+          br
+          br
 
-            .tarjeta.tarjetas-tipos-de-riesgo.py-4.p-4
-              .row.align-items-center
-                .col-1
-                  figure
-                    img(src="@/assets/curso/imagen-tipos-riesgo-quimico.svg", alt="alt").img100.imagen-tarjetas-tipos-de-riesgo-2
-                .col-7
-                  h5 Químicos:
-                  p Riesgo por alguna sustancia o estado de la misma.
-            br
-            br
-
-            .tarjeta.tarjetas-tipos-de-riesgo.py-4.p-4
-              .row.align-items-center
-                .col-1
-                  figure
-                    img(src="@/assets/curso/imagen-tipos-riesgo-fisicos.svg", alt="alt").img100.imagen-tarjetas-tipos-de-riesgo-3
-                .col-10
-                  h5 Físicos:
-                  p En las interacciones en el espacio, se pueden presentar accidentes eléctricos, dada la gran cantidad de aparatos y equipos como: centrífugas, hornos, agitadores magnéticos, riesgos por cortes con vidrios o material corto punzante, quemaduras ante el uso de mecheros, calentadores o por emisión de vapor, durante algún procedimiento, entre otros.
+          .tarjeta.tarjetas-tipos-de-riesgo.py-4.p-4
+            .row.align-items-center
+              .col-1
+                figure
+                  img(src="@/assets/curso/imagen-tipos-riesgo-fisicos.svg", alt="alt").img100.imagen-tarjetas-tipos-de-riesgo-3
+              .col-10
+                h5 Físicos:
+                p En las interacciones en el espacio, se pueden presentar accidentes eléctricos, dada la gran cantidad de aparatos y equipos como: centrífugas, hornos, agitadores magnéticos, riesgos por cortes con vidrios o material corto punzante, quemaduras ante el uso de mecheros, calentadores o por emisión de vapor, durante algún procedimiento, entre otros.
     p.mb-5(data-aos='fade-right') Detalladamente, los riesgos pueden describirse de la siguiente manera, a partir de la adaptación del Manual de bioseguridad en el laboratorio (OMS, 2005).
     
     .container.tarjeta--blanca.justify-content-center.mb-5
@@ -383,7 +375,7 @@
       
         .col-lg-4
           .bloque-texto-mitad-color-izquierda-clasificacion-sustancias.p-1
-            p.p-4 Para avanzar en el conocimiento y manejo de las sustancias como un material requerido en las prácticas del laboratorio, y partiendo de saber cómo son las sustancias simples o compuestas, y el tipo de mezclas que éstas generan, se resalta que su disposición y su uso en laboratorio, requieren de clasificaciones y manejos prudentes de las mismas, teniendo en cuenta sus características para el almacenamiento y su manipulación.
+            p.p-4 Para avanzar en el conocimiento y manejo de las sustancias, como materiales requeridos en las prácticas de laboratorio, y partiendo del conocimiento de las sustancias simples o compuestas, y el tipo de mezclas que estas generan, se enfatiza en que su disposición y uso en el laboratorio, requiere de clasificaciones y manejos prudentes, y consideración de sus características, para almacenamiento y manipulación acertados.
 
         .col-lg-8
           .tarjeta.tarjeta--blanca.p-3(data-aos="flip-left")
@@ -394,12 +386,6 @@
       br
 
       p Estas sustancias pueden ser clasificadas con respecto a su peligrosidad; entre estas pueden observarse características como: explosivas, inflamables, tóxicas, corrosivas, irritantes, entre otras más específicas. Sin embargo, siguiendo el concepto de bioseguridad, deberán estar identificadas y referenciadas, en cuanto a su manejo y almacenamiento, y ser visibilizadas a través de pictogramas que muestren su peligrosidad, como se observa en los siguientes íconos.
-
-      
-      .imagen-fondo-punto-caliente-tema2
-        figure
-            img(src='@/assets/curso/fondo-infografia-punto-caliente.svg', alt='Texto que describa la imagen')
-
       ImagenInfografica.color-acento-botones.mb-5
         template(v-slot:imagen)
           figure
