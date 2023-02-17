@@ -1,14 +1,8 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno
-  //(icono="fas fa-tasks" titulo="Actividad didáctica")
+  BannerInterno(icono="fas fa-tasks" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-principal.color-acento-contenido
-        .titulo-principal__numero
-          span
-            i.fas.fa-puzzle-piece
-        h1 Actividad didáctica
 
     
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
@@ -18,7 +12,7 @@
             img(src="@/assets/template/imagen-actividad-didactica-cf1.png", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-botones
-          h2 Arrastrar y soltar
+          h2 Biotecnología vegetal
         p.mb-4 Relacione el tipo o color de la biotecnología con su respectivo ejemplo de aplicación.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

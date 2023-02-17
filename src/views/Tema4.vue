@@ -204,29 +204,29 @@
 
       .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-          ImagenInfografica.color-primario
+          ImagenInfografica.color-acento-contenido
             template(v-slot:imagen)
               figure
                 img(data-aos="flip-left")(src='@/assets/curso/imagen-residuos-y-tipos-de-residuos.png', alt='Texto que describa la imagen')
                 
 
-            .tarjeta.tarjeta--blanca.p-3(x="58%" y="50%" numero="1")
+            .tarjeta.tarjeta--blanca.p-3(x="58%" y="50%" numero="+")
               .h5.mb-2 Líquidos, disolventes y disoluciones.
               //p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
 
-            .tarjeta.tarjeta--blanca.p-3(x="83%" y="40%" numero="2")
+            .tarjeta.tarjeta--blanca.p-3(x="83%" y="40%" numero="+")
               .h5.mb-2 Sólidos orgánicos e inorgánicos.
               //p Lorem ipsum dolor ddasdasd asdasd asdasd a asd sd asdasd sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
 
-            .tarjeta.tarjeta--blanca.p-3(x="78%" y="19%" numero="3")
+            .tarjeta.tarjeta--blanca.p-3(x="78%" y="19%" numero="+")
               .h5.mb-2 Material desechable contaminado.
               //p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
             
-            .tarjeta.tarjeta--blanca.p-3(x="31%" y="59%" numero="4")
+            .tarjeta.tarjeta--blanca.p-3(x="31%" y="59%" numero="+")
               .h5.mb-2 Productos especiales como reactivos.
               //p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
             
-            .tarjeta.tarjeta--blanca.p-3(x="14%" y="25%" numero="5")
+            .tarjeta.tarjeta--blanca.p-3(x="14%" y="25%" numero="+")
               .h5.mb-2 Biopeligrosos, aquellos contaminados de algún agente biológico patógeno o fluidos internos.
               //p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
       

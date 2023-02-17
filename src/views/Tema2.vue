@@ -80,11 +80,6 @@
           img(src="@/assets/curso/imagen1-niveles-riesgos-lab.png")
   
     .row.tarjeta.tarjeta--blanca.p-3
-
-              
-      figure.imagen-de-fondo-tipos-riesgo
-        img(src='@/assets/curso/fondo-tipos-de-riesgo.png', alt='Texto que describa la imagen')
-    
       .row.justify-content-around.align-items-center.p-4
         p Es deber de todo el personal de laboratorio, conocer todo lo concerniente al tema de seguridad, para poder llevar a cabo el protocolo adecuado. 
           br
