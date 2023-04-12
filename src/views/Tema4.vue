@@ -54,13 +54,13 @@
                       
                       li 
                         i.fas.fa-atom
-                        | Reactivos
+                        | Reactivos.
                       li
                         i.fas.fa-atom
-                        | Detergentes
+                        | Detergentes.
                       li
                         i.fas.fa-atom
-                        | Óxidos
+                        | Óxidos.
                       br
 
             
@@ -80,13 +80,13 @@
                           //h4 Agentes biológicos:
                           li 
                             i.fas.fa-atom
-                            | Bacterias
+                            | Bacterias.
                           li
                             i.fas.fa-atom
-                            | Hongos
+                            | Hongos.
                           li
                             i.fas.fa-atom
-                            | Virus
+                            | Virus.
                           
                           br
 
@@ -107,13 +107,13 @@
                           //h4 Agentes físicos:
                           li 
                             i.fas.fa-atom
-                            | Vidrio 
+                            | Vidrio. 
                           li
                             i.fas.fa-atom
-                            | Polvo
+                            | Polvo.
                           li
                             i.fas.fa-atom
-                            | Hisopos
+                            | Hisopos.
                           
                           br
 
