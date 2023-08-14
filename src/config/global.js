@@ -117,8 +117,8 @@ export default {
     {
       referencia:
         'Espinoza, E. F. (2018). Biotecnología para la agricultura moderna. Ciencia, 69(4), p. 1-6.',
-      //link:
-      //'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+      link:
+        'https://www.revistaciencia.amc.edu.mx/index.php/ediciones-anteriores/articulos-fuera-de-los-volumenes-publicados-online/307-biotecnologia-para-la-agricultura-moderna',
     },
     {
       referencia:

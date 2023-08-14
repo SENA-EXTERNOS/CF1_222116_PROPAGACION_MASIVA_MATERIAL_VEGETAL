@@ -164,10 +164,10 @@
         .row        
           .col-lg-6
             .bloque-texto-mitad-color-izquierda-contaminacion-cruzada.p-1
-                p.p-4 La bioseguridad aplica, no solo en cuanto a agentes contaminantes sino, también, en cuanto al manejo de instrumentos presentes; por consiguiente, es importante tener claridad que, si no se tiene la asepsia adecuada, las superficies del laboratorio pueden ser reservas de microorganismos y, en algunos casos, de patógenos. Por eso es importante la esterilización de instrumentos y otros materiales.
+                p.p-4 La bioseguridad aplica, no solo en cuanto a agentes contaminante, sino, también, en cuanto al manejo de instrumentos presentes; por consiguiente, es importante tener claridad que, si no se tiene la asepsia adecuada, las superficies del laboratorio pueden ser reservas de microorganismos y, en algunos casos, de patógenos. Por eso es importante la esterilización de instrumentos y otros materiales.
                   br
                   br
-                  |La contaminación cruzada, se define como: el paso de microorganismos de un elemento a otro, contaminando productos o espacios que van a ser utilizados, o sea, un intercambio de agentes biológicos de un elemento a otro.
+                  |La contaminación cruzada se define como: el paso de microorganismos de un elemento a otro, contaminando productos o espacios que van a ser utilizados, o sea, un intercambio de agentes biológicos de un elemento a otro.
 
           .col-lg-6
               .tarjeta.tarjeta--blanca.p-3(data-aos="fade-left")
