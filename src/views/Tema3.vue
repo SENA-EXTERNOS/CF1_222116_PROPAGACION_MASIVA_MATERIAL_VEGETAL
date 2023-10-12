@@ -13,7 +13,7 @@
       
         .col-lg-7
           .bloque-texto-mitad-color-izquierda-ambiente-praxis.p-1
-            p.p-4 Los lugares específicos para realizar proyectos biotecnológicos, disponen de un escenario completo para el desarrollo de sus prácticas; es por eso que, dependiendo del tipo de biotecnología para el equipamiento del laboratorio, las condiciones de asepsia siempre son programadas y permanentes, se pueden manipular condiciones como la luz, la temperatura, la humedad entre otras y, en algunos casos, el lugar se verá relacionado o integrado con otros espacios como invernaderos, en donde se llevará a cabo la fase de aclimatación del material vegetal, si corresponde.
+            p.p-4 Los lugares específicos para realizar proyectos biotecnológicos, disponen de un escenario completo para el desarrollo de sus prácticas; es por eso que, dependiendo del tipo de biotecnología para el equipamiento del laboratorio, las condiciones de asepsia siempre son programadas y permanentes, se pueden manipular condiciones como la luz, la temperatura, la humedad, entre otras y, en algunos casos, el lugar se verá relacionado o integrado con otros espacios como invernaderos, en donde se llevará a cabo la fase de aclimatación del material vegetal, si corresponde.
               br
               br
               |A continuación, se describen los principales aspectos del laboratorio de biotecnología vegetal.
